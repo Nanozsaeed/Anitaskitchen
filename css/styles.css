@@ -1,20 +1,20 @@
-
 .jumbotron {
   text-align: center;
-  background-image: url("../img/backgrounds/landing.jpg") ;
+  background-image: url("../img/backgrounds/landing.jpg");
   padding: 0;
   border: none;
   margin: 0;
   height: 700px;
-  padding-top: 0.1%;
-
+  padding-top: 10%;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .jumbotron h1 {
   font-family: Georgia, serif;
   font-size: 35px;
   color: white;
-  padding-top: 7px;
+  padding-top: 60px;
 }
 
 .image-logo {
@@ -23,36 +23,49 @@
   margin-left: auto;
   padding-top: 20px;
 }
-.happy-hour1{
-  color: black;
 
+.happy-hour1 {
+  color: black;
 }
-.happy-hour2{
+
+.happy-hour2 {
   color: blue;
+}
 
-}
-.happy-hour3{
+.happy-hour3 {
   color: black;
 }
-.happy-hour4{
+
+.happy-hour4 {
   color: black;
 }
-#sohappy{
+
+#sohappy {
   background-color: #ccc;
   padding: 35px;
   text-align: center;
-  font-style:  arial, sans-serif;
+  font-style: arial, sans-serif;
 }
-#amhappy{
+
+#amhappy {
   background-color: #ff4500;
   padding: 27px;
   text-align: center;
   color: white;
-  }
-  .mnbar {
-    padding-top: 65px;
-  }
+}
 
-.sdbar{
-padding: 58px;
+.mnbar {
+  padding-top: 65px;
+}
+
+.sdbar {
+  padding: 58px;
+}
+
+.mnbar1 {
+  margin-left:45px;
+  background-color: none;
+  }
+.sdbar1{
+    text-align: right;
 }
