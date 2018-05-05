@@ -104,10 +104,23 @@
 
 .geo {
   padding-left: 100px;
- text-align: center;
- margin: 1000px 100px;
+  text-align: center;
+  margin: 1000px 100px;
 }
 
 .geo h1 {
   color: #FF4500;
+}
+
+.email {
+  background-image: url("../img/backgrounds/subscribe.jpg");
+  background-size: cover;
+  padding-top:200px;
+  padding-bottom: 50px;
+  background-repeat: no-repeat;
+
+}
+.for{
+  padding-left: 250px;
+  margin-top: -120px;
 }
