@@ -3972,7 +3972,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-left: -1px;
 }
 .nav {
-  padding-left: 0;
+  padding-left: 0px;
   margin-bottom: 0;
   list-style: none;
 }
@@ -4024,7 +4024,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-tabs > li > a {
   margin-right: 2px;
-  line-height: 1.42857143;
+  line-height: 2.42857143;
   border: 1px solid transparent;
   border-radius: 4px 4px 0 0;
 }
@@ -4041,7 +4041,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-bottom-color: transparent;
 }
 .nav-tabs.nav-justified {
-  width: 100%;
+  width: 50%;
+  height: 50%;
   border-bottom: 0;
 }
 .nav-tabs.nav-justified > li {
