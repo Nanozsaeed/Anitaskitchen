@@ -69,3 +69,11 @@
 .sdbar1{
     text-align: right;
 }
+.two{
+  padding-top: 500px;
+  padding-bottom: 0px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  background-image: url("../img/backgrounds/foodsBg.jpg");
+}
