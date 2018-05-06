@@ -27,10 +27,13 @@
 
 .happy-hour1 {
   color: black;
+
 }
 
 .happy-hour2 {
   color: blue;
+  border: 2px solid red;
+
 }
 
 .happy-hour3 {
@@ -58,10 +61,14 @@
 
 .row1 {
   margin-top: -20px;
+  padding-top: -150px;
+  margin-bottom: 50px;
 }
 
 .mnbar {
-  padding-top: 65px;
+  padding-top:3px;
+  box-shadow: 3px 3px 5px 6px #ccc;
+  margin-top: 80px;
 }
 
 .sdbar {
@@ -104,8 +111,10 @@
 
 .geo {
   padding-left: 100px;
+  padding-bottom:-3px;
   text-align: center;
   margin: 1000px 100px;
+
 }
 
 .geo h1 {
@@ -115,12 +124,47 @@
 .email {
   background-image: url("../img/backgrounds/subscribe.jpg");
   background-size: cover;
-  padding-top:200px;
+  padding-top: 250px;
   padding-bottom: 50px;
   background-repeat: no-repeat;
-
+  background-attachment: fixed;
 }
-.for{
+
+.for {
   padding-left: 250px;
-  margin-top: -120px;
+  margin-top: -200px;
+}
+
+.for3 {
+  margin: 50px 0px 0px 150px;
+  padding: 10px 200px 10px 0px;
+  background-color: transparent;
+  opacity: 0.2;
+}
+
+.for4 {
+  background-color: #FF4500;
+  color: white;
+  word-spacing: 300px;
+  padding: 12px 30px;
+  border: 0px;
+}
+.footer{
+  background-color: #FF4500;
+  padding-top: 300px;
+  margin-left: -110px;
+  margin-right: -20px;
+}
+.log{
+  float: left;
+  width: 33.3%;
+}
+.logo1 {
+ padding-right: 100px;
+  margin-top: -200px;
+  padding:0px 50px 0px 600px;
+
+  margin-top: -280px;
+  float: left;
+  width: 100%;
 }
